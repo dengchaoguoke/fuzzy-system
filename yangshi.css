@@ -1,7 +1,7 @@
 body{
     background-color: cadetblue;
     background-size: 1000px;
-    background-image:url(https://github.com/dengchaoguoke/fuzzy-system/assets/130628883/5490e88e-b30b-45e3-95e6-30a15c433457)
+    background-image:url(https://pic1.zhimg.com/v2-1b6225e86400f00957bf30434f573302_r.jpg?source=1940ef5c)
     }
 hr{
     height: 40px;
@@ -14,5 +14,5 @@ hr{
     background-color: aquamarine;
 }
 .ren:hover{
-    background-image: url(https://github.com/dengchaoguoke/fuzzy-system/assets/130628883/5490e88e-b30b-45e3-95e6-30a15c433457);
+    background-image: url(https://pic1.zhimg.com/v2-1b6225e86400f00957bf30434f573302_r.jpg?source=1940ef5c);
 }
