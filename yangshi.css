@@ -1,0 +1,18 @@
+body{
+    background-color: cadetblue;
+    background-size: 1000px;
+    background-image:url(https://pic2.zhimg.com/v2-9a8a0afc8c74deec17efae3c2628f87c_r.jpg?source=1940ef5c)
+    }
+hr{
+    height: 40px;
+    width: 5%;
+    border-color: aqua;
+    border-width: 10px;
+    border-style: dotted none none none;
+    }
+#tenxun{
+    background-color: aquamarine;
+}
+.ren:hover{
+    background-image: url(https://pic2.zhimg.com/v2-9a8a0afc8c74deec17efae3c2628f87c_r.jpg?source=1940ef5c);
+}
